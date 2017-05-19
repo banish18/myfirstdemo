@@ -1,0 +1,17 @@
+step 1 - go to your computer directoty like as c
+
+step 2 - initialize command git init
+
+step 3 - git clone <your repository url>
+
+step 4 - add some files into your direcory like as index.html
+
+step 5 - check status file added or not using git status
+
+step 6 - if you want add some file then use git add <file_name> or use git add . fir all changes.
+
+step 7 - check again git status
+
+step 8 - then commit all changes to repo using git commit -m "your message"
+
+step 9 - git push (It will ask to login)  
