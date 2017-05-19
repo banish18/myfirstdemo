@@ -1,0 +1,25 @@
+To Install laravel....
+
+ - Open Command Prompt  
+
+ - Use command - composer global require "laravel/installer"
+
+ - Use Command - laravel new blog(Your Project Name)
+
+ - To create auto auth login register page - Use command - php artisan make:auth
+
+ - Copy/cut all pubic directory file to main diectory and making required changes in index.php
+
+
+
+To install bower
+
+
+
+On window you ca try to set the path using in command propmt:
+
+set PATH=%PATH%;C:\Program Files\Git\bin;
+
+
+
+ 
