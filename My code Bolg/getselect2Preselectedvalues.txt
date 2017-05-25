@@ -1,0 +1,1 @@
+$('.teamprofile-basic-multiple').data().select2.updateSelection(defaultData);
