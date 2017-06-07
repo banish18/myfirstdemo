@@ -1,0 +1,26 @@
+To Enter super User....
+
+1.sudo su
+
+To enter dirctory...
+
+1.sudo chown ec2-user /var/www/html/
+
+to unzip files
+
+   unzip file_name
+to zip files   
+   yum install zip
+   zip -r newbackup.zip /root/backup	
+
+to restart appache
+
+4.service httpd restart
+
+to remove
+
+5.rm "/var/www/html/newbacup.zip"
+mstbani
+
+
+cd /var/www/html/aws/wp-content/themes
